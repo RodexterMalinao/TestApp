@@ -16,11 +16,18 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.oracle.database.jdbc</groupId>
+			<groupId>com.oracle</groupId>
 			<artifactId>ojdbc6</artifactId>
-			<version>11.2.0.4</version>
+			<version>11.1.0.7.0</version>
 		</dependency>
 	</dependencies>
+	<repositories>
+		<repository>
+			<id>nexus</id>
+			<url>http://211.241.199.217:8080/nexus/content/repositories/thirdparty/</url>
+		</repository>
+	</repositories>
+
 	
 	<build>
 		<plugins>
