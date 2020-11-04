@@ -33,7 +33,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>com.cjg.maven</mainClass>
+            <mainClass>com.cjg.maven.App</mainClass>
           </manifest>
         </archive>
       </configuration>
