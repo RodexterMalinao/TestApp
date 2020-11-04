@@ -11,8 +11,6 @@ public class App {
 
 	public static void main(String[] args) {
 		try {
-			// step1 load the driver class
-			Class.forName("oracle.jdbc.OracleDriver");
 
 			// step2 create the connection object
 			Connection con = DriverManager.getConnection("jdbc:oracle:thin:@10.87.122.65:1526:imssit", "ops$bom",
