@@ -31,7 +31,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>com.cjg.maven.App</mainClass>
+            <mainClass>/TestApp/src/main/java/com/jcg/maven/App.java</mainClass>
           </manifest>
         </archive>
       </configuration>
