@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 Built-By: 81255234
 Build-Jdk: 14.0.2
+Class-Path: lib/ojdbc5-11.2.0.4.jar lib/ucp-11.2.0.4.jar lib/oraclepki-1
+ 1.2.0.4.jar lib/osdt_cert-11.2.0.4.jar lib/osdt_core-11.2.0.4.jar lib/s
+ implefan-11.2.0.4.jar lib/ons-11.2.0.4.jar
+Main-Class: com.cjg.maven
 Created-By: Maven Integration for Eclipse
 

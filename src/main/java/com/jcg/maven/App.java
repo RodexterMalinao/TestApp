@@ -1,7 +1,5 @@
 package com.jcg.maven;
 
-import java.beans.Statement;
-import java.nio.file.attribute.AclEntry;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
