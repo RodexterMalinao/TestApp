@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 04 00:39:53 PST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1604420853248
+https\://repo.spring.io/milestone/.error=Could not transfer artifact com.oracle\:ojdbc6\:jar\:sources\:11.1.0.7.0 from/to spring-milestone (https\://repo.spring.io/milestone)\: Software caused connection abort\: no further information
+http\://maven.rocoinfo.com/nexus/content/groups/public/.error=Could not transfer artifact com.oracle\:ojdbc6\:jar\:sources\:11.1.0.7.0 from/to com-oracle (http\://maven.rocoinfo.com/nexus/content/groups/public/)\: Connect timed out
+@default-com-oracle-http\://maven.rocoinfo.com/nexus/content/groups/public/.lastUpdated=1604420652914
+https\://repo.spring.io/snapshot/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.oracle\:ojdbc6\:jar\:sources\:11.1.0.7.0 from/to central (https\://repo.maven.apache.org/maven2)\: Connect timed out
+@default-spring-milestone-https\://repo.spring.io/milestone/.lastUpdated=1604421580447
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1604421593719
+https\://repo.spring.io/snapshot/.lastUpdated=1604421581700
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact com.oracle\:ojdbc6\:jar\:sources\:11.1.0.7.0 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: dl.bintray.com

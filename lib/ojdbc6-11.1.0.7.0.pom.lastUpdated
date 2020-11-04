@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 04 00:21:20 PST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1604420480889
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1604420466622
+https\://repo.spring.io/snapshot/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.oracle\:ojdbc6\:pom\:11.1.0.7.0 from/to central (https\://repo.maven.apache.org/maven2)\: No such host is known (repo.maven.apache.org)
+https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1604420468880
+https\://repo.spring.io/snapshot/.lastUpdated=1604420467857
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=
