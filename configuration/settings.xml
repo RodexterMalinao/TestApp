@@ -5,7 +5,7 @@
       <!--This sends everything else to /public -->
       <id>nexus</id>
       <mirrorOf>*</mirrorOf>
-      <url>https://nexus.urcicd.sitelb.bpu.pccw.com/repository/maven-group/</url>
+      <url>https://nexus.urcicd.sitelb.bpu.pccw.com/repository/rodexter_malinao/</url>
     </mirror>
   </mirrors>
   <profiles>
